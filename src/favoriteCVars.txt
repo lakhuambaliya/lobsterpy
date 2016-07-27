@@ -1,0 +1,11 @@
+[!!python/unicode 'XStreamDSO.ScopeIdentify.SimHSTrigVersion', !!python/unicode 'XStreamDSO.EyeDr.SignalInput.UpSampleSUT',
+  !!python/unicode 'XStreamDSO.EyeDr.Equalizer.MaxUIsForTrain', !!python/unicode 'XStreamDSO.EyeDr.Equalizer.MinUIsForTrain',
+  !!python/unicode 'XStreamDSO.EyeDr.Equalizer.NumTaps', !!python/unicode 'XStreamDSO.EyeDr.Equalizer.PreCursorTaps',
+  !!python/unicode 'XStreamDSO.EyeDr.Equalizer.FFETapsDesired', !!python/unicode 'XStreamDSO.EyeDr.Equalizer.FFE.NumDecisionLevels',
+  !!python/unicode 'XStreamDSO.EyeDr.Equalizer.FFE.MaxBitsForTraining', !!python/unicode 'XStreamDSO.EyeDr.Equalizer.FFE.MinBitsForTraining',
+  !!python/unicode 'XStreamDSO.EyeDr.Equalizer.FFE.PreCursorTapsDesired', !!python/unicode 'XStreamDSO.EyeDr.Equalizer.FFE.PreCursorTaps',
+  !!python/unicode 'XStreamDSO.EyeDr.Equalizer.FFE.FFETapsDesired', !!python/unicode 'XStreamDSO.EyeDr.Equalizer.FFE.NumTaps',
+  !!python/unicode 'XStreamDSO.SaveRecall.Waveform.UpdateFilename', !!python/unicode 'XStreamDSO.InstrumentID',
+  !!python/unicode 'XStreamDSO.InstrumentMainFamily', !!python/unicode 'XStreamDSO.SDA3.ShowSetup',
+  !!python/unicode 'XStreamDSO.SDA3.EnableSDAGUI', !!python/unicode 'XStreamDSO.SDA3.SetupEyeMeasure',
+  !!python/unicode 'XStreamDSO.SDA3.SetupEmphasis']
